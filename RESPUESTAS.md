@@ -84,14 +84,14 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
-**Archivo:** [Captura1.png](evidencias/Captura1.png)  
+**Archivo:** [Captura1.png](evidencias/Captura1.PNG)  
 **Qué demuestra:** La recepción de logs en tiempo real. Se observan alertas de prioridad 0 para tráfico ICMP y accesos SSH detectados por el sensor.  
 **Qué he aprendido:** A interpretar los campos de un log de Filebeat, identificando IPs de origen (172.19.0.2) y destino (172.19.0.10).
 
 ---
 
 ### Evidencia 2
-**Archivo:** [Captura3.png](evidencias/Captura3.png)  
+**Archivo:** [Captura3.png](evidencias/Captura3.PNG)  
 **Qué demuestra:** La efectividad de las reglas del IDS para identificar patrones de ataque (fuerza bruta SSH).  
 **Qué he aprendido:** Que el SIEM permite centralizar información de distintos `agent.id` y `agent.hostname` para tener una visión global de la red.
 
