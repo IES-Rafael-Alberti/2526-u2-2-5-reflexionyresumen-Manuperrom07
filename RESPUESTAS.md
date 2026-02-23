@@ -8,7 +8,6 @@
 ---
 
 ## 1) Reflexión crítica (preguntas)
-Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si procede, usa ejemplos, riesgos y decisiones justificadas.
 
 ### 1.1) ¿Qué te han parecido los temas tratados en la unidad?
 - Me han parecido fundamentales para establecer una base operativa en ciberseguridad. Hemos pasado de la teoría de la taxonomía de incidentes a la implementación práctica de un SOC, lo cual permite entender no solo qué es un ataque, sino cómo se captura y visualiza técnicamente.
