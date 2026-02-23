@@ -58,10 +58,10 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - **Normalización:** Proceso de convertir logs variados a un formato común (ECS).
 
 ### 2.3) Procesos / procedimientos (pasos o checklist)
-- [ ] **Instalación:** Despliegue de contenedores Docker (ELK + Agentes).  
-- [ ] **Configuración:** Definición de reglas en Snort para detectar ICMP y SSH.  
-- [ ] **Ingesta:** Activación de Filebeat para enviar logs al SIEM.  
-- [ ] **Monitorización:** Revisión de alertas en el panel *Discover* de Kibana.
+- [X] **Instalación:** Despliegue de contenedores Docker (ELK + Agentes).  
+- [X] **Configuración:** Definición de reglas en Snort para detectar ICMP y SSH.  
+- [X] **Ingesta:** Activación de Filebeat para enviar logs al SIEM.  
+- [X] **Monitorización:** Revisión de alertas en el panel *Discover* de Kibana.
 
 ### 2.4) Herramientas / técnicas (si aplica)
 - **ELK Stack:** Elasticsearch, Logstash y Kibana para el análisis de logs.  
@@ -89,15 +89,16 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
-- Archivo: <img width="1908" height="885" alt="image" src="https://github.com/user-attachments/assets/a361737a-0c03-4ac9-852e-e399612369dd" />
-- Qué demuestra: La recepción de logs en tiempo real. Se observan alertas de prioridad 0 para tráfico ICMP y accesos SSH detectados por el sensor.
-- Qué he aprendido: A interpretar los campos de un log de Filebeat, identificando IPs de origen (172.19.0.2) y destino (172.19.0.10).
+**Archivo:** [Captura1.png](evidencias/Captura1.png)  
+**Qué demuestra:** La recepción de logs en tiempo real. Se observan alertas de prioridad 0 para tráfico ICMP y accesos SSH detectados por el sensor.  
+**Qué he aprendido:** A interpretar los campos de un log de Filebeat, identificando IPs de origen (172.19.0.2) y destino (172.19.0.10).
 
+---
 
 ### Evidencia 2
-- Archivo: <img width="1149" height="340" alt="image" src="https://github.com/user-attachments/assets/994fe34d-a82f-4904-9418-0bd8faf58b12" />
-- Qué demuestra: La efectividad de las reglas del IDS para identificar patrones de ataque (fuerza bruta SSH).
-- Qué he aprendido: Que el SIEM permite centralizar información de distintos agent.id y agent.hostname para tener una visión global de la red.
+**Archivo:** [Captura3.png](evidencias/Captura3.png)  
+**Qué demuestra:** La efectividad de las reglas del IDS para identificar patrones de ataque (fuerza bruta SSH).  
+**Qué he aprendido:** Que el SIEM permite centralizar información de distintos `agent.id` y `agent.hostname` para tener una visión global de la red.
 
 
 ## 4) Conclusión (cierre)
