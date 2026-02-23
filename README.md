@@ -13,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos:** Manuel Pérez Romero
+- **Iniciales:**  MPR
+- **Grupo:**  Grupo 5
+- **Actividad / ID:**  2.5-Reflexion_Resumen
+- **Unidad / Tema:**  Unidad 2
+- **Fecha de entrega:**  23/02/2026
 
 ---
 
