@@ -89,15 +89,16 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
-- Archivo: ``
+- Archivo: <img width="1908" height="885" alt="image" src="https://github.com/user-attachments/assets/a361737a-0c03-4ac9-852e-e399612369dd" />
 - Qué demuestra: La recepción de logs en tiempo real. Se observan alertas de prioridad 0 para tráfico ICMP y accesos SSH detectados por el sensor.
 - Qué he aprendido: A interpretar los campos de un log de Filebeat, identificando IPs de origen (172.19.0.2) y destino (172.19.0.10).
 
+
 ### Evidencia 2
-- Archivo: `evidencias/02_...`
+- Archivo: <img width="1149" height="340" alt="image" src="https://github.com/user-attachments/assets/994fe34d-a82f-4904-9418-0bd8faf58b12" />
 - Qué demuestra: La efectividad de las reglas del IDS para identificar patrones de ataque (fuerza bruta SSH).
 - Qué he aprendido: Que el SIEM permite centralizar información de distintos agent.id y agent.hostname para tener una visión global de la red.
 
 
 ## 4) Conclusión (cierre)
-- 
+- La Unidad 2 me ha permitido entender que la ciberseguridad no es solo "bloquear", sino "entender" lo que pasa. El dominio de herramientas como ELK y Snort es lo que diferencia a un administrador de sistemas de un analista de seguridad capaz de gestionar un SOC profesional.
