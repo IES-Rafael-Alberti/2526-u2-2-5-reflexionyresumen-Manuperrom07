@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QO66Lm42)
 # Actividad — Reflexión y Resumen (Plantilla genérica)
 
 > **Entrega 100% en Markdown (GitHub), limite max. aprox. 5000 palabras**  
@@ -12,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos:** Manuel Pérez Romero
+- **Iniciales:**  MPR
+- **Grupo:**  Grupo 5
+- **Actividad / ID:**  2.5-Reflexion_Resumen
+- **Unidad / Tema:**  Unidad 2
+- **Fecha de entrega:**  23/02/2026
 
 ---
 
@@ -87,12 +88,12 @@ Recomendación de nombres:
 
 ## 7. Checklist de entrega
 
-- [ ] He rellenado `Actividad / ID` y `Unidad / Tema`
-- [ ] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
-- [ ] He respondido **todas** las preguntas en `RESPUESTAS.md`
-- [ ] He incluido el **resumen esquematizado** contemplando todos los puntos
-- [ ] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
-- [ ] El repositorio está ordenado y es legible
+- [X] He rellenado `Actividad / ID` y `Unidad / Tema`
+- [X] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
+- [X] He respondido **todas** las preguntas en `RESPUESTAS.md`
+- [X] He incluido el **resumen esquematizado** contemplando todos los puntos
+- [X] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
+- [X] El repositorio está ordenado y es legible
 
 
 ## 8. Evaluación
