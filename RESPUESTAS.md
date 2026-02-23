@@ -81,7 +81,6 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 
 
 ## 3) (Opcional) Evidencias y recursos usados
-Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
 **Archivo:** [Captura1.png](evidencias/Captura1.PNG)  
