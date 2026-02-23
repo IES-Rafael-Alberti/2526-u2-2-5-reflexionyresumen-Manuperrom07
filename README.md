@@ -88,12 +88,12 @@ Recomendación de nombres:
 
 ## 7. Checklist de entrega
 
-- [ ] He rellenado `Actividad / ID` y `Unidad / Tema`
-- [ ] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
-- [ ] He respondido **todas** las preguntas en `RESPUESTAS.md`
-- [ ] He incluido el **resumen esquematizado** contemplando todos los puntos
-- [ ] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
-- [ ] El repositorio está ordenado y es legible
+- [X] He rellenado `Actividad / ID` y `Unidad / Tema`
+- [X] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
+- [X] He respondido **todas** las preguntas en `RESPUESTAS.md`
+- [X] He incluido el **resumen esquematizado** contemplando todos los puntos
+- [X] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
+- [X] El repositorio está ordenado y es legible
 
 
 ## 8. Evaluación
