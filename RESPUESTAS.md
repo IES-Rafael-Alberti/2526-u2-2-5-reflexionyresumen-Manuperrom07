@@ -14,13 +14,13 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - Me han parecido fundamentales para establecer una base operativa en ciberseguridad. Hemos pasado de la teoría de la taxonomía de incidentes a la implementación práctica de un SOC, lo cual permite entender no solo qué es un ataque, sino cómo se captura y visualiza técnicamente.
 
 ### 1.2) ¿Qué ha sido más útil para tu futuro puesto de trabajo? ¿Por qué?
-- La implantación y gestión de un SIEM. En un entorno profesional, la capacidad de centralizar logs de distintas fuentes (como Snort y Nginx) es vital para reducir el tiempo de respuesta (MTTR). Sin un SIEM, el analista está ciego ante eventos correlacionados.
+- La implantación y gestión de un SIEM. En un entorno profesional, la capacidad de centralizar logs de distintas fuentes (como Snort y Nginx) es vital para reducir el tiempo de respuesta. Sin un SIEM, el analista está ciego ante eventos correlacionados.
 
 ### 1.3) ¿Qué partes ya conocías y cuáles han sido nuevas para ti?
-- Conocía conceptos básicos de red, pero han sido totalmente nuevos los Casos de Uso y la evolución de los SIEM hacia capacidades analíticas más avanzadas (2.2.4). También ha sido un descubrimiento la metodología para escribir informes técnicos.
+- Conocía conceptos básicos de red, pero han sido totalmente nuevos los Casos de Uso y la evolución de los SIEM hacia capacidades analíticas más avanzadas. También ha sido un descubrimiento la metodología para escribir informes técnicos.
 
 ### 1.4) ¿Qué concepto/idea te ha llamado más la atención y por qué?
-- El uso de Fuentes Abiertas (OSINT). Me sorprende cómo la inteligencia recolectada de fuentes públicas puede enriquecer las alertas del SIEM para identificar actores de amenazas antes de que el incidente escale.
+- El uso de Fuentes Abiertas (OSINT). Me sorprende cómo la inteligencia recolectada de fuentes públicas puede enriquecer las alertas del SIEM para identificar actores de amenazas antes de que el incidente vaya a mas .
 
 ### 1.5) ¿Qué parte recortarías o simplificarías si hubiera menos tiempo? Justifica.
 - La parte de evolución del SIEM, priorizando más tiempo en la documentación de incidentes, ya que una detección sin un registro técnico adecuado pierde su valor legal y preventivo.
@@ -36,11 +36,6 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 
 
 ## 2) Resumen esquematizado (obligatorio)
-[Aqui, incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas con **contenido claro sobre los puntos importantes**, sobre párrafos largos que no aporten. **No olvides el resumen**]
-
-
-
-[Además, puedes completarlo con:]
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
